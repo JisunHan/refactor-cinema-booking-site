@@ -10,9 +10,14 @@
 
 # production
 /build
+.next
+out
 
 # misc
 .DS_Store
+.vercel
+.swc
+.turbo
 .env.local
 .env.development.local
 .env.test.local

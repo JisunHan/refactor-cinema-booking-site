@@ -1,5 +1,5 @@
 {
-  "extends": ["react-app", "plugin:prettier/recommended"],
+  "extends": ["next/core-web-vitals", "plugin:prettier/recommended"],
   "rules": {
     "no-var": "warn",
     "no-multiple-empty-lines": "warn",
